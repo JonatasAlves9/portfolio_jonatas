@@ -10,6 +10,9 @@ function Home() {
           <h1 className="titleName" >Jônatas Alves</h1>
           <button className="buttonSkills" >Skills</button>
       </div>
+      <div className="box_right">
+          
+      </div>
     </div>
   );
 }

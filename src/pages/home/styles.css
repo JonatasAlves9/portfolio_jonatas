@@ -3,9 +3,17 @@
   }
 
 .box_left{
+    position: absolute;
     background-color: #025959;
     width: 50%;
     height: 100vh;
+}
+
+.box_right{
+    background-color: #09FFE7;
+    width: 50%;
+    height: 100vh;
+    float: right;
 }
 
 .titleOla{
